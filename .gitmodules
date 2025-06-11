@@ -1,0 +1,6 @@
+[submodule "lib/other/ecm"]
+	path = lib/other/ecm
+	url = https://github.com/Pikau12/ECM
+[submodule "lib/other/oop"]
+	path = lib/other/oop
+	url = https://github.com/Pikau12/OOP
